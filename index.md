@@ -1,36 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Hubless84/HW4new/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hubless84/HW4new/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ויקינגים" - סקירה"</title>
+    <link rel="stylesheet" href=CSS\style.css>
+</head>
+<body>
+    <h1> "תקציר הסדרה "ויקניגים</h1>
+    <p dir="rtl">ויקינגים (באנגלית: Vikings) היא דרמה היסטורית קנדית-אירית שנוצרה ונכתבה על ידי מייקל הירסט עבור ערוץ ההיסטוריה. הסדרה עלתה לשידור ב-3 במרץ 2013 בארצות הברית ובקנדה. הסדרה צולמה באירלנד בהשראת הסיפורים על הויקינג רגנאר לודברוק, אחד מגיבורי התרבות הנורדית הנודעים ביותר. הסדרה מציגה את רגנאר כחקלאי שעולה לגדולה לאחר פשיטות מוצלחות באנגליה ובסופו של דבר הופך למלך סקנדינביה בתמיכת משפחתו וחבריו הלוחמים - אחיו רולו, בנו ביורן צד-ברזל ונשותיו בתולת המגן לגרת'ה והנסיכה אסלוג.
+    <br>
+    <a href=https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A0%D7%92%D7%99%D7%9D_(%D7%A1%D7%93%D7%A8%D7%AA_%D7%98%D7%9C%D7%95%D7%95%D7%99%D7%96%D7%99%D7%94) target="_blank">המשך קריאה - ויקיפדיה</a>
+    <br><br>
+    <img src=https://upload.wikimedia.org/wikipedia/he/thumb/4/40/Vikings_title.png/375px-Vikings_title.png /> 
+    <br>
+    <a href=https://www.youtube.com/watch?v=DT7jxSmbMbs target="_blank">שיר הפתיחה של ויקניגים</a>
+    <br><hr>
+    <p dir="rtl">הסדרה שואבת השראה מסיפורי הפשיטות, הסחר וחקר הארצות של הנורדים בראשית ימי הביניים בסקנדינביה. היא עוקבת אחר סיפורו של המלך הוויקינגי האגדי רגנאר לודברוק (טרוויס פימל), צוותו ומשפחתו, כפי שסופרו בעיקר בסאגות מהמאה ה-13 "עלילותיו של רגנאר לודברוק" ו"עלילות בניו של רגנאר לודברוק" כמו כן גם בכתביו של סקסו גרמטיקוס מהמאה ה-12 "גסטה דנורום". הסאגות הנורדיות האגדיות היו בחלקן מומצאות והתבססו באופן חלקי על המסורות הנורדיות שבעל פה, שנכתבו 200-‏400 שנים לאחר התרחשות האירועים. השראה נוספת לסדרה נלקחת ממקורות היסטוריים של אותה תקופה כמו הפשיטה על לינדיספארן שבצפון אנגליה המתוארת בפרק השני וקורותיו של אחמד אבן פדלאן במאה ה-10 ופגישתו בורנגים. הסדרה מתארת את ראשיתה של התקופה הוויקינגית ומתחילה עם אירוע הפשיטה על לינדספארן.</p> 
+    <br>
+    <a href=page2.html>שחקני הסדרה</a>
+    <br>
+    <a href=page3.html>סדדרות דומות</a>
+    <br><br>
+    <a href=order.html>פריטי לבוש של יובנטוס למכירה!</a>
+    
+    
+</body>
+</html>
 
 ### Support or Contact
 
